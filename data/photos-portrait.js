@@ -128,12 +128,12 @@ const PHOTOS_PORTRAIT = [
   /* ── KAWAGOE — WISTERIA ────────────────────────────────────── */
   {
     src: 'assets/images/portrait/wisteria-smell.jpg',
-    cat: 'portrait', location: 'kawagoe', event: 'kawagoe-wisteria',
+    cat: 'portrait', location: 'Enoshima', event: 'Enoshima',
     section: ['photography', 'travel-japan', 'event'],
-    captionEn: 'Under the wisteria — Kawagoe flower festival',
-    captionBn: 'উইস্টেরিয়ার নিচে — কাওয়াগোই ফুল উৎসব',
-    locationEn: 'Kawagoe, Saitama, Japan',
-    locationBn: 'কাওয়াগোই, সাইতামা, জাপান',
+    captionEn: 'Enoshima',
+    captionBn: 'এনোশিনো',
+    locationEn: 'Enoshima, Japan',
+    locationBn: 'জাপান',
     height: '360px', featured: true,
   },
 
